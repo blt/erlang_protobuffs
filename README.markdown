@@ -84,3 +84,7 @@ Fletcher.
 
 The rest of it and it's test suite was written by Nick Gerakines. Major
 contributions have been made by Jacob Vorreuter.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/blt/erlang_protobuffs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
